@@ -27,7 +27,7 @@ a:hover {
 
 
 .avatar-container {
-  text-align: center; /* 将容器内内容居中 */
+  text-align: left; /* center 将容器内内容居中 */
 }
 
 .avatar {
