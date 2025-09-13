@@ -24,3 +24,14 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+
+.avatar-container {
+  text-align: center; /* 将容器内内容居中 */
+}
+
+.avatar {
+  width: 150px;  /* 根据需要调整大小 */
+  height: auto;
+  border-radius: 50%; /* 可选，圆形头像 */
+}
