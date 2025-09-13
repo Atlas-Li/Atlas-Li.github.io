@@ -6,7 +6,7 @@
   <img src="./figs/github_image.png" alt="My Avatar" width="150" style="border-radius: 20%; box-shadow: 0px 0px 5px rgba(0,0,0,0.3);">
 </div>
 
-# Welcome to my page
+# Dr. Mingjun Li
 
 I am an Assistant Professor in the Department of Computing Sciences at the University of Hartford. I earned my Ph.D. in Computer Science from Clarkson University and M.S. in Computational Sciences from Marquette University.
 
