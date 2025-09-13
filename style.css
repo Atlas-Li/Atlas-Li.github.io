@@ -35,3 +35,7 @@ a:hover {
   height: auto;
   border-radius: 50%; /* 可选，圆形头像 */
 }
+
+.yellow-text {
+  color: yellow; /* 文字颜色为黄色 */
+}
