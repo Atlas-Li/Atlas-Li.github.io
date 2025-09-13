@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
-<div align="left">
+<!-- <div align="left">
 <img src="https://github.com/Atlas-Li/Atlas-Li.github.io/blob/main/figs/github_image.png" width=20% height=20%>
-</div>
+</div> -->
+
+![My Avatar](https://github.com/Atlas-Li/Atlas-Li.github.io/blob/main/figs/github_image.png)
