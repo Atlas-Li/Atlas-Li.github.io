@@ -1,8 +1,26 @@
+/* 设置整个页面深色背景 */
 body {
-  background-color: #121212; /* 深色背景 */
-  color: #ffffff; /* 白色文字 */
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
 }
 
+/* 让 README 内的 div 拥有独立深色块 */
+.dark-box {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+/* 修改链接颜色 */
 a {
-  color: #4dabf7; /* 超链接浅蓝色 */
+  color: #4dabf7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
