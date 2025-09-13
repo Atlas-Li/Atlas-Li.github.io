@@ -3,12 +3,12 @@
 
 <!-- <div style="position: absolute; top: 50px; left: 50px; z-index: 999;"> -->
 <div class="avatar-container">
-  <img src="./figs/github_image.png" alt="My Avatar" width="120" style="border-radius: 50%; box-shadow: 0px 0px 5px rgba(0,0,0,0.3);">
+  <img src="./figs/github_image.png" alt="My Avatar" width="150" style="border-radius: 20%; box-shadow: 0px 0px 5px rgba(0,0,0,0.3);">
 </div>
 
 # Welcome to my page
 
-I am an Assistant Professor in the Department of Computing Sciences at the University of Hartford. He earned his Ph.D. in Computer Science from Clarkson University and his M.S. in Computational Sciences from Marquette University.
+I am an Assistant Professor in the Department of Computing Sciences at the University of Hartford. I earned my Ph.D. in Computer Science from Clarkson University and M.S. in Computational Sciences from Marquette University.
 
 My research focuses on <span style="color: yellow;">machine learning</span>, <span style="color: yellow;">deep learning</span> , <span style="color: yellow;">2D/3D computer vision</span>, <span style="color: yellow;">human–robot interaction</span>, and <span style="color: yellow;">virtual reality</span>. My recent work includes developing advanced deep learning models for VR-based biometric authentication and human motion forecasting, as well as building large-scale multi-modal datasets for the human–robot interaction community.
 
